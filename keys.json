@@ -16,13 +16,6 @@
       "protocol": "http",
       "domain": "server.domain.com",
       "createdAt": "2025-11-16T17:35:36.357Z"
-    },
-    {
-      "id": "83837837",
-      "nama": "linux",
-      "port": "1",
-      "database": "1",
-      "createdAt": "2025-11-16T22:25:26.300Z"
     }
   ]
 }
