@@ -6,6 +6,16 @@
       "port": "9",
       "database": "1",
       "createdAt": "2025-11-16T17:28:25.286Z"
+    },
+    {
+      "id": "93736773",
+      "nama": "Luinux",
+      "port": "9",
+      "database": "1",
+      "link": "http://server.domain.com:9/1",
+      "protocol": "http",
+      "domain": "server.domain.com",
+      "createdAt": "2025-11-16T17:35:36.357Z"
     }
   ]
 }
