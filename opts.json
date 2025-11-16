@@ -36,6 +36,15 @@
       "status": "active",
       "createdAt": "2025-11-16T22:29:17.681Z",
       "expiresAt": "2025-11-16T22:39:17.681Z"
+    },
+    {
+      "id": "9393",
+      "nomor": "6283938737383",
+      "kode": "964076",
+      "platform": "lijz",
+      "status": "active",
+      "createdAt": "2025-11-16T22:30:13.062Z",
+      "expiresAt": "2025-11-16T22:40:13.062Z"
     }
   ]
 }
