@@ -16,6 +16,12 @@
       "protocol": "http",
       "domain": "server.domain.com",
       "createdAt": "2025-11-16T17:35:36.357Z"
+    },
+    {
+      "id": "7311075660",
+      "nama": "Linux six",
+      "password": "UbD3qLi7V#r@",
+      "createdAt": "2025-11-19T09:59:04.625Z"
     }
   ]
 }
